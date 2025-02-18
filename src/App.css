@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-body{
-  background-color: red !important;
-}
-
 .app-container {
   font-family: "Montserrat", sans-serif;
   background-color: #512da8;
