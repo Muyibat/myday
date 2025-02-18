@@ -16,7 +16,7 @@ function App() {
   const [userName, setUserName] = useState("");
 
   return (
-    <Router>
+      <Router basename="/myday">
       <div className="app-container">
         {userName ? (
           <>
