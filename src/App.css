@@ -94,7 +94,7 @@
   display: block;
   padding: 10px;
   border-radius: 6px;
-  transition: background 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
 }
 
 .sidebar ul li a.active {
